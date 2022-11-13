@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>130</y>
+      <w>450</w>
+      <h>400</h>
+    </coordinates>
+    <panel_attributes>Admin
+--
+ -Add User: String=null
+ -Remove User:String=null
+ -Provide AmbulanceShedule:String=null
+ -Confirm AmbulanceBooking: Bool
+ -Confirm Medicene:Bool
+ -Confirm Test:Bool
+ -/Confirm Payment: DOLLAR=0
+
+
+--
++setAdduser():string
++getAdduser(Adduser:string)
++setRemoveuser():string
++getRemoveuser(Removeuser:string)
++Provide AmbulanceShedule():String
++Confirm AmbulanceBooking():Bool
++Confirm Medicene():Bool
++Confirm Test:Bool
++setpayment(amount DOLLAR)
++getpayment():DOLLAR
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

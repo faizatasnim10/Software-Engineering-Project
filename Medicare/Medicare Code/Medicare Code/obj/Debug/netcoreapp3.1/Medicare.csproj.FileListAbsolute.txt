@@ -1,0 +1,14 @@
+E:\Books\SE\Project\Medicare\Medicare\bin\Debug\netcoreapp3.1\Medicare.exe
+E:\Books\SE\Project\Medicare\Medicare\bin\Debug\netcoreapp3.1\Medicare.deps.json
+E:\Books\SE\Project\Medicare\Medicare\bin\Debug\netcoreapp3.1\Medicare.runtimeconfig.json
+E:\Books\SE\Project\Medicare\Medicare\bin\Debug\netcoreapp3.1\Medicare.runtimeconfig.dev.json
+E:\Books\SE\Project\Medicare\Medicare\bin\Debug\netcoreapp3.1\Medicare.dll
+E:\Books\SE\Project\Medicare\Medicare\bin\Debug\netcoreapp3.1\Medicare.pdb
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.csproj.AssemblyReference.cache
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.GeneratedMSBuildEditorConfig.editorconfig
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.AssemblyInfoInputs.cache
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.AssemblyInfo.cs
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.csproj.CoreCompileInputs.cache
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.dll
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.pdb
+E:\Books\SE\Project\Medicare\Medicare\obj\Debug\netcoreapp3.1\Medicare.genruntimeconfig.cache

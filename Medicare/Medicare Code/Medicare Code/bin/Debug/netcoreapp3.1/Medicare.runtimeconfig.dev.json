@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\FAIZA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\FAIZA\\.nuget\\packages"
+    ]
+  }
+}
